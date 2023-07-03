@@ -17,6 +17,7 @@ Feel free to check these codes out.
 | Sum of Digits of a Five Digit Number | [Question](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem) | [Solution](https://github.com/ShazidMashrafi/Hackerrank-Solutions/blob/master/Sum%20of%20Digits%20of%20a%20Five%20Digit%20Number/SumOfDigits.c)
 | Maps-STL | [Question](https://www.hackerrank.com/challenges/cpp-maps/problem) | [Solution](https://github.com/ShazidMashrafi/Hackerrank-Solutions/blob/master/Maps%20STL/Maps_STL.cpp)
 | Sets-STL | [Question](https://www.hackerrank.com/challenges/cpp-sets/problem) | [Solution](https://github.com/ShazidMashrafi/Hackerrank-Solutions/blob/master/Sets-STL/Sets_STL.cpp)
+| Balanced Brackets | [Question](https://www.hackerrank.com/challenges/balanced-brackets/problem) | [Solution](https://github.com/ShazidMashrafi/Hackerrank-Solutions/blob/master/Balanced%20Brackets/Balanced_Brackets.cpp)
 
 <br> 
 </div>
